@@ -1,33 +1,13 @@
-# Nome do Projeto
-
-Uma breve descrição sobre o que o projeto faz, seu propósito e principais funcionalidades.
-
-## Tabela de Conteúdos
-
-- [Sobre](#sobre)
-- [Instalação](#instalação)
-- [Uso](#uso)
-- [Funcionalidades](#funcionalidades)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
-- [Contato](#contato)
-
 ## Sobre
 
-Explique detalhadamente o projeto, tecnologias utilizadas e o problema que ele resolve.  
-Exemplo:  
-Este projeto foi desenvolvido em **Python** e **Discord.py**, criando um bot interativo para servidores Discord com comandos de economia, jogos e interação com usuários.
+**Luminarls** é uma bot completo para servidores Discord, focado em economia, diversão e interatividade. Ele oferece comandos de economia, jogos, rankings, exploração e muito mais, criando uma experiência envolvente para todos os membros do servidor.
 
-## Instalação
+Principais características da **Luminarls**:
 
-Passos para instalar e rodar o projeto localmente:
+* 💰 **Sistema de Economia:** Ganhe e gerencie moedas virtuais (Lucoins), com comandos como `/trabalhar`, `/pay` e `/investimento`.
+* 🗺️ **Exploração:** Comandos interativos como `/explorar` permitem aos usuários realizar aventuras com recompensas e cooldowns persistentes.
+* 🏆 **Rankings:** Veja quem está no topo com o `/rank`, disponível em modo global.
+* 🎲 **Jogos e Diversão:** Aposte suas moedas, participe de minigames e interaja com outros usuários de forma divertida.
+* ⚙️ **Personalização e Interatividade:** Suporte a embeds customizados, botões, select menus.
 
-```bash
-# Clone o repositório
-git clone https://github.com/seu-usuario/seu-projeto.git
-
-# Acesse a pasta do projeto
-cd seu-projeto
-
-# Instale as dependências
-pip install -r requirements.txt
+A **Luminarls** é ideal para servidores que querem engajar a comunidade com atividades econômicas, jogos e interação divertida entre os membros.

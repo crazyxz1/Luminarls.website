@@ -4,7 +4,7 @@
 
 Principais características da **Luminarls**:
 
-* 💰 **Sistema de Economia:** Ganhe e gerencie moedas virtuais (Lucoins), com comandos como `/trabalhar`, `/pay` e `/investimento`.
+* 💰 **Sistema de Economia:** Ganhe e gerencie moedas virtuais (Lucoins), com comandos como `/trabalhar`, `/pay` e `/explorar`.
 * 🗺️ **Exploração:** Comandos interativos como `/explorar` permitem aos usuários realizar aventuras com recompensas e cooldowns persistentes.
 * 🏆 **Rankings:** Veja quem está no topo com o `/rank`, disponível em modo global.
 * 🎲 **Jogos e Diversão:** Aposte suas moedas, participe de minigames e interaja com outros usuários de forma divertida.
